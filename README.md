@@ -36,6 +36,7 @@ This repository contains an intelligent Supply Chain AI Agent designed to query 
 The frontend is developed using **Next.js** and features a modern ChatGPT-like interface. Users can interact with the agent, create and delete chat sessions, and view their session history. The directory includes all necessary components for rendering user and agent responses.
 
 ### Note
-Inordered to avoid limit issues try to use Paid SOTA models such as Gemini 2.5 pro, Claude 4.
-The credentials for login can be found inside /backend/user_init.py
++ Inordered to avoid limit issues try to use Paid SOTA models such as Gemini 2.5 pro, Claude 4.
++ The credentials for login can be found inside /backend/user_init.py
++ eg: For Manager, username = "manager", password = "manager123"
 
