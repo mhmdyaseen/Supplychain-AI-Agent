@@ -3,6 +3,7 @@
 This repository contains an intelligent Supply Chain AI Agent designed to query both organizational policy documents and internal databases to support daily operations. The system transforms how supply chain professionals interact with their information ecosystem.
 
 ![image alt](https://github.com/mhmdyaseen/Supplychain-AI-Agent/blob/53c9f77c6c041a844dda39e942df471684125ced/screenshots/screenshot-1.jpg)
+<br>
 ![image alt](https://github.com/mhmdyaseen/Supplychain-AI-Agent/blob/53c9f77c6c041a844dda39e942df471684125ced/screenshots/screenshot-2.jpg)
 
 ## Core Features
