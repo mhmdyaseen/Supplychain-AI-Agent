@@ -37,4 +37,5 @@ The frontend is developed using **Next.js** and features a modern ChatGPT-like i
 
 ### Note
 Inordered to avoid limit issues try to use Paid SOTA models such as Gemini 2.5 pro, Claude 4.
+The credentials for login can be found inside /backend/user_init.py
 
